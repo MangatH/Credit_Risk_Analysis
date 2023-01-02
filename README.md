@@ -37,7 +37,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 <img width="715" alt="Screen Shot 2023-01-01 at 11 31 24 PM" src="https://user-images.githubusercontent.com/111387025/210180523-751fe271-1856-430d-bde0-3dc6a0e609c9.png">
 
-1.The balanced accuracy score is 0.6234433606890912. <br/>
+1. The balanced accuracy score is 0.6234433606890912. <br/>
 2. Precision: The precision for high risk loans is low i.e. 0.01 and for low risk loans is high i.e. 1.00. <br/>
 3. Recall: Recall for high risk loans is 0.60 and for low risk loans is 0.44. <br/>
 
@@ -45,7 +45,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 <img width="715" alt="Screen Shot 2023-01-01 at 11 34 25 PM" src="https://user-images.githubusercontent.com/111387025/210180616-e5572cd1-2ca3-4df3-8ea9-d31aa8abc5d2.png">
 
-1.The balanced accuracy score is 0.5174508784864491. <br/>
+1. The balanced accuracy score is 0.5174508784864491. <br/>
 2. Precision: The precision for high risk loans is low i.e. 0.01 and for low risk loans is high i.e. 1.00. <br/>
 3. Recall: Recall for high risk loans is 0.70 and for low risk loans is 0.58. <br/>
 
@@ -53,7 +53,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 <img width="702" alt="Screen Shot 2023-01-01 at 11 38 00 PM" src="https://user-images.githubusercontent.com/111387025/210180675-7ca986ce-be22-4dd8-95cc-929071d5aea6.png">
 
-1.The balanced accuracy score is 0.7877672625306695. <br/>
+1. The balanced accuracy score is 0.7877672625306695. <br/>
 2. Precision: The precision for high risk loans is low i.e. 0.04 and for low risk loans is high i.e. 1.00. <br/>
 3. Recall: Recall for high risk loans is 0.67 and for low risk loans is 0.91. <br/>
 
@@ -61,7 +61,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 <img width="705" alt="Screen Shot 2023-01-01 at 11 40 56 PM" src="https://user-images.githubusercontent.com/111387025/210180736-574aded1-b74e-40d7-87c1-d2a043971089.png">
 
-1.The balanced accuracy score is 0.925427358175101. <br/>
+1. The balanced accuracy score is 0.925427358175101. <br/>
 2. Precision: The precision for high risk loans is low i.e. 0.07 and for low risk loans is high i.e. 1.00.<br/>
 3. Recall: Recall for high risk loans is 0.91 and for low risk loans is 0.94.<br/>
 
